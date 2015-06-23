@@ -84,7 +84,7 @@ class Hello(object):
     </head>
     <!-- 啟動 brython() -->
     <body onload="brython()">
-        國立虎尾科技大學，機械設計系二年甲板，協同產品設計，第八組24號的個人網頁<br/>
+        國立虎尾科技大學，機械設計系二年甲板，協同產品設計，第八組40223149號的個人網頁<br/>
     <a href="legoman">樂高機器人組立</a><br/>
     <a href="index2">協同齒輪</a><br/>
     <a href="geartest">協同第二次上機期末考個人版</a><br/>
@@ -1179,7 +1179,7 @@ root = Hello()
 root.gear = gear.Gear()
 root.legoman = legoman.MAN()
 #root.CMS=CMS.CMSimply()
-cherrypy.server.socket_port = 8082
+cherrypy.server.socket_port = 8083
 cherrypy.server.socket_host = '127.0.0.1'
 if 'OPENSHIFT_REPO_DIR' in os.environ.keys():
     # 表示在 OpenSfhit 執行

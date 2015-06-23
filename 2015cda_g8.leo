@@ -1346,7 +1346,7 @@ def index(self, K=None, N=None, inp2=None):
 &lt;/head&gt;
 &lt;!-- 啟動 brython() --&gt;
 &lt;body onload="brython()"&gt;
-    國立虎尾科技大學，機械設計系二年甲板，協同產品設計，第八組24號的個人網頁&lt;br/&gt;
+    國立虎尾科技大學，機械設計系二年甲板，協同產品設計，第八組40223149號的個人網頁&lt;br/&gt;
 &lt;a href="legoman"&gt;樂高機器人組立&lt;/a&gt;&lt;br/&gt;
 &lt;a href="index2"&gt;協同齒輪&lt;/a&gt;&lt;br/&gt;
 &lt;a href="geartest"&gt;協同第二次上機期末考個人版&lt;/a&gt;&lt;br/&gt;
